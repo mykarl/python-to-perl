@@ -2,4 +2,4 @@
 
 Converts (basic) Python3 input into Perl output. Main conversion program (pypl.pl) written in Perl.
 
-To run, supply a Python3 file as the program argument. The resulting Perl conversion will be written to STDOUT.
+To run, input code via STDIN or supply a file as the program argument. The resulting Perl conversion will be written to STDOUT.
